@@ -1,0 +1,4 @@
+﻿  c-7-3.c
+E:\vs2022code\Project-7-3\Project-7-3\c-7-3.c(75,16): warning C4013: “strchr”未定义；假设外部返回 int
+E:\vs2022code\Project-7-3\Project-7-3\c-7-3.c(75,14): warning C4047: “=”:“char *”与“int”的间接级别不同
+  Project-7-3.vcxproj -> E:\vs2022code\Project-7-3\x64\Debug\Project-7-3.exe

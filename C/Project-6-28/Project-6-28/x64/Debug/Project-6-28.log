@@ -1,0 +1,3 @@
+﻿  c-6-28.c
+E:\vs2022code\Project-6-28\Project-6-28\c-6-28.c(119,8): warning C4244: “函数”: 从“long double”转换到“float”，可能丢失数据
+  Project-6-28.vcxproj -> E:\vs2022code\Project-6-28\x64\Debug\Project-6-28.exe

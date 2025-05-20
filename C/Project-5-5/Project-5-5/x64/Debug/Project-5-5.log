@@ -1,0 +1,4 @@
+﻿  code-5-5.c
+E:\vs2022code\Project-5-5\Project-5-5\code-5-5.c(47,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\vs2022code\Project-5-5\Project-5-5\code-5-5.c(51,35): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  Project-5-5.vcxproj -> E:\vs2022code\Project-5-5\x64\Debug\Project-5-5.exe

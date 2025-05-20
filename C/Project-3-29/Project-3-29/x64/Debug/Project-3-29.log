@@ -1,0 +1,12 @@
+﻿  源.cpp
+E:\vs2022code\Project-3-29\Project-3-29\源.cpp(111,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+  E:\vs2022code\Project-3-29\Project-3-29\源.cpp(111,8):
+  请考虑在格式字符串中使用“%hhd”
+  
+E:\vs2022code\Project-3-29\Project-3-29\源.cpp(112,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“char *”
+E:\vs2022code\Project-3-29\Project-3-29\源.cpp(112,9): warning C4313: "printf": 格式字符串中的 "%u" 与类型为 "char *" 的参数 1 冲突
+E:\vs2022code\Project-3-29\Project-3-29\源.cpp(113,8): warning C4477: “scanf”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“char *”
+E:\vs2022code\Project-3-29\Project-3-29\源.cpp(114,9): warning C4477: “printf”: 格式字符串“%f”需要类型“double”的参数，但可变参数 1 拥有了类型“char *”
+E:\vs2022code\Project-3-29\Project-3-29\源.cpp(118,9): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+E:\vs2022code\Project-3-29\Project-3-29\源.cpp(118,9): warning C4313: "printf": 格式字符串中的 "%c" 与类型为 "char *" 的参数 1 冲突
+  Project-3-29.vcxproj -> E:\vs2022code\Project-3-29\x64\Debug\Project-3-29.exe

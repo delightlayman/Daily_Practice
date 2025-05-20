@@ -1,0 +1,2 @@
+﻿test.c(819,15): warning : variable 'res' set but not used [-Wunused-but-set-variable]
+  Project-test-8.vcxproj -> E:\vs2022code\Project-test-8\x64\Debug\Project-test-8.exe

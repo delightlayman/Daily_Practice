@@ -1,0 +1,3 @@
+﻿  mytime_i.cpp
+E:\vs2022code\Project-12-1\Project-12-1\mytime_i.cpp(43,27): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  Project-12-1.vcxproj -> E:\vs2022code\Project-12-1\x64\Debug\Project-12-1.exe

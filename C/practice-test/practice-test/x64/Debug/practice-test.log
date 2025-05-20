@@ -1,0 +1,5 @@
+﻿  test.cpp
+E:\vs2022code\practice-test\practice-test\test.cpp(253,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\vs2022code\practice-test\practice-test\test.cpp(268,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\vs2022code\practice-test\practice-test\test.cpp(280,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  practice-test.vcxproj -> E:\vs2022code\practice-test\x64\Debug\practice-test.exe

@@ -1,0 +1,7 @@
+﻿  queue implement.c
+  test.c
+  正在生成代码...
+E:\vs2022code\Project-7-6\Project-7-6\test.c(24,19): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“Item *”
+E:\vs2022code\Project-7-6\Project-7-6\test.c(27,24): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Item”
+E:\vs2022code\Project-7-6\Project-7-6\test.c(40,24): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“Item”
+  Project-7-6.vcxproj -> E:\vs2022code\Project-7-6\x64\Debug\Project-7-6.exe

@@ -1,0 +1,5 @@
+﻿  bank.cpp
+C:\Users\x'an\Desktop\C&C++\C++ Primer Plus第6版中文版源代码\Chapter 12\bank.cpp(18,25): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  queue.cpp
+  正在生成代码...
+  Project12-9.vcxproj -> E:\vs2022code\Project12-9\x64\Debug\Project12-9.exe

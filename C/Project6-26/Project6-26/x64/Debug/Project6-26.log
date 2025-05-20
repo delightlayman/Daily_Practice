@@ -1,0 +1,6 @@
+﻿  c-6-26.c
+  func.c
+E:\vs2022code\Project6-26\Project6-26\func.c(28,10): warning C4013: “strchr”未定义；假设外部返回 int
+E:\vs2022code\Project6-26\Project6-26\func.c(28,8): warning C4047: “=”:“char *”与“int”的间接级别不同
+  正在生成代码...
+  Project6-26.vcxproj -> E:\vs2022code\Project6-26\x64\Debug\Project6-26.exe

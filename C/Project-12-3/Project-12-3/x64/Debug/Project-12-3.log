@@ -1,0 +1,6 @@
+﻿  string1-i.cpp
+E:\vs2022code\Project-12-3\Project-12-3\string1-i.cpp(17,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\vs2022code\Project-12-3\Project-12-3\string1-i.cpp(51,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  string1-t.cpp
+  正在生成代码...
+  Project-12-3.vcxproj -> E:\vs2022code\Project-12-3\x64\Debug\Project-12-3.exe

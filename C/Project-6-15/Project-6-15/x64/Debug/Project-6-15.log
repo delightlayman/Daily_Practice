@@ -1,0 +1,7 @@
+﻿  c-6-15.c
+E:\vs2022code\Project-6-15\Project-6-15\c-6-15.c(369,36): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\vs2022code\Project-6-15\Project-6-15\c-6-15.c(375,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 4 拥有了类型“size_t”
+  E:\vs2022code\Project-6-15\Project-6-15\c-6-15.c(375,9):
+  请考虑在格式字符串中使用“%zd”
+  
+  Project-6-15.vcxproj -> E:\vs2022code\Project-6-15\x64\Debug\Project-6-15.exe
